@@ -33,8 +33,8 @@
 
 ### 📫 Connect With Me
 
-- 📧 **Email:** [your.email@example.com](sachintharathnayaka12@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/sachintha-randula)
+- 📧 **Email:** [sachintharathnayaka12@gmail.com](sachintharathnayaka12@gmail.com)
+- 💼 **LinkedIn:** [Sachintha Randula](www.linkedin.com/in/sachintha-randula)
 
 ---
 
