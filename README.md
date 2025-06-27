@@ -1,46 +1,43 @@
-# Hey there 👋, I'm Sachintha Punchihewa
+# 👋 Hi there, I'm Sachintha Randula
 
-**Web Developer** passionate about building responsive and scalable web applications.
-
-- 💻 I work with **Laravel, Vue.js, Nuxt, React, PHP**
-- 🌱 Currently exploring **Serverless**, **Docker**, and **CI/CD**
-- ⚡ Fun fact: I love designing clean UI/UX and diving into open-source projects
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/your-link) or [Email](mailto:your.email@example.com)
+**Mobile & Web Developer** with a passion for building beautiful, functional apps.
 
 ---
 
-### 🚀 GitHub Stats
+### 🚀 About Me
 
-![Sachintha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachintha990&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachintha990&layout=compact&theme=radical)
-
----
-
-### 🛠️ What I'm Working On
-- A Laravel + Vue.js **Booking + CMS system**
-- A personal portfolio built using Nuxt & Tailwind
-- Contributing to a DIY **DevOps automation project**
+- 🧑‍💻 Working mainly with **Flutter** for cross-platform apps.
+- 🔥 Experienced in **Firebase**, **PHP**, **JavaScript**, and **Git**.
+- 🎯 Always learning and exploring new tech.
+- 💡 Love turning ideas into reality through code.
 
 ---
 
-### 🔧 Tech & Tools
+### 🛠️ Tech & Tools
 
-<img align="left" alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img align="left" alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img align="left" alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-<br clear="left"/>
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📫 Find Me Elsewhere
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![Sachintha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachintha990&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachintha990&layout=compact&theme=tokyonight)
 
 ---
 
-Thanks for dropping by 👋
+### 📫 Connect With Me
+
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-link)
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*
+
+Thanks for stopping by! 🚀✨
